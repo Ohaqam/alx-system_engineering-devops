@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+cat iacta | tail --lines=1 >> iacta
